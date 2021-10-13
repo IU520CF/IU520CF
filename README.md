@@ -1,24 +1,21 @@
-### Hi there 👋
+### IU520CF👋
 
-<!--
-**IU520CF/IU520CF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Open source software and tool sharing warehouse,Everyone is welcome to join and share 开源软件和工具分享仓库，欢迎所有人加入分享
+#### Open source software and tool sharing warehouse,Everyone is welcome to join and share 
+
+#### 开源软件和工具分享仓库，欢迎所有人加入分享
 
 ##### 分享格式如下
-软件名:********
-简介:************
-github仓库地址:**************
 ----
+
+软件名：***
+
+简介：***
+
+github仓库地址：***
+
+----
+
+
 
